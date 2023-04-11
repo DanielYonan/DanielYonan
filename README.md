@@ -2,10 +2,6 @@
 Hi there, I'm <a href="https://danielyonan.github.io/Portfolio/" target="_blank" rel="noreferrer">Daniel</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a Web Developer 💻!
-</h2> 
-
 
 Technical Skills  
 
